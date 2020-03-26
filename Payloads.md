@@ -1,4 +1,5 @@
 * [[Payload - Non-Malicious Auto Defacer]]
+* [[Payload - Open Webpage, Any Platform]]
 * [[Payload - Lock Your Computer Message]]
 * [[Payload - Ducky Downloader]]
 * [[Payload - Ducky Phisher]]
