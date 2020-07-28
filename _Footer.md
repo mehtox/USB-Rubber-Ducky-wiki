@@ -6,3 +6,4 @@ DELAY 3000 |
  DELAY 750 |
  STRING echo Hello World!!!! |
  ENTER
+test
