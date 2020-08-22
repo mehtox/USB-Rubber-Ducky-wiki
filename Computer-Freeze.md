@@ -1,0 +1,1 @@
+Hello! This payload will create a batch file that will freeze the computer until you shutdown the computer!
