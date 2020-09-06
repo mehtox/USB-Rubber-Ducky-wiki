@@ -157,6 +157,7 @@ The king of key-combos, CONTROL is all mighty.
 | SCROLLLOCK | Hasn't been nearly as useful since the GUI was invented |
 | SPACE | the final frontier |
 | TAB | not just a cola |
+| FN | another modifier key |
 
 ### REPEAT
 
