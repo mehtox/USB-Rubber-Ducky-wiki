@@ -6,7 +6,7 @@ What the Duck here does, is that it opens up an Administrative command prompt, c
 _echo %username% |clip_ and then hits enter.
 Flawless as this attack maybe, it still leaves a trace as we copy the username. Let me know if any of you guys know how to "uncopy" i.e. remove this trace from the computer. Maybe some registry editing?? That, I don't know. Anyways, once the duck copies the username, it types out _net user *_
 
-Now it moves one space back and then does Ctrl+V, doing which pastes the copied username and also hits enter for you.
+Now it moves one space back and then does SHIFT+INSERT, doing which pastes the copied username and also hits enter for you.
 
 Now it types out whatever pass you want twice, hitting enter between the two times it types out the new pass.
 
