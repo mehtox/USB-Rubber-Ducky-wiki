@@ -1,3 +1,4 @@
+* [Payload - WIN10 Disable Windows Defender](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---WIN10-Disable-Windows-Defender)
 * [[Payload - Non-Malicious Auto Defacer]]
 * [[Payload - Open Webpage, Any Platform]]
 * [[Payload - Lock Your Computer Message]]
