@@ -6,3 +6,4 @@ ENTER
 DELAY 750
 STRING echo Hello World!!!!!
 ENTER
+what? what is this footer? xD
