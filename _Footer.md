@@ -1,8 +1,10 @@
-`DELAY 3000`
-`GUI r`
-`DELAY 500`
-`STRING cmd.exe`
-`ENTER`
-`DELAY 750`
-`STRING echo Hello World!!!!!`
-`ENTER`
+```
+DELAY 3000
+GUI r
+DELAY 500
+STRING cmd.exe
+ENTER
+DELAY 750
+STRING echo Hello World!!!!!
+ENTER
+```
